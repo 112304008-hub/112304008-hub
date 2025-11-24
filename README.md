@@ -1,6 +1,6 @@
 # Yi Lun Fang (Ellen)
 
-Undergraduate in Statistics at National Chengchi University (NCCU)  
+Undergraduate in Statistics with a minor in Economics at National Chengchi University (NCCU)  
 Interested in quantitative investing, machine learning for financial markets, and building production-ready ML systems.
 
 ---
@@ -8,6 +8,7 @@ Interested in quantitative investing, machine learning for financial markets, an
 ## Profile
 
 - Background in **Statistics**, with strong foundations in probability, inference, and regression  
+- Coursework in **Economics and Finance**, connecting quantitative tools to real market problems  
 - Hands-on experience in **end-to-end ML projects**: data pipelines, model training, API serving, and Docker deployment  
 - Strong interest in **AI-themed equity investing**, especially the **AI server hardware and supply-chain ecosystem**  
 - Comfortable working across the stack: from **Python & data engineering** to **backend APIs** and **basic DevOps**  
@@ -95,7 +96,7 @@ This project is my main sandbox for experimenting with **research → model → 
 
 - **NCCU Mathematics & Information Technology Club (MITc) – Design & Marketing**  
   - Responsible for visual design and promotional materials for club events  
-  - Helped organize 2025 NCCU PyDay: “Python × LLM Hands-on Workshop”, a full-day offline event on LLM applications in Python  
+  - Helped organize **[2025 NCCU PyDay: “Python × LLM Hands-on Workshop”](https://www.accupass.com/event/2505150542041736392010)**, a full-day offline event on LLM applications in Python  
 
 - **NCCU Dancing Club – Teaching Member**  
   - Teach basic to intermediate choreography  
