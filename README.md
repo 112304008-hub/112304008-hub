@@ -1,6 +1,6 @@
 # Yi Lun Fang (Ellen)
 
-Undergraduate in Finance, National Chengchi University (NCCU)  
+Undergraduate in Statistics, National Chengchi University (NCCU)  
 Interested in quantitative investing, machine learning for financial markets, and building production-ready ML systems.
 
 ---
