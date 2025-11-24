@@ -12,7 +12,7 @@ Interested in quantitative investing, machine learning for financial markets, an
 - Hands-on experience in **end-to-end ML projects**: data pipelines, model training, API serving, and Docker deployment  
 - Strong interest in **AI-themed equity investing**, especially the **AI server hardware and supply-chain ecosystem**  
 - Comfortable working across the stack: from **Python & data engineering** to **backend APIs** and **basic DevOps**  
-- Part-time **IT assistant** at the NCCU Department of Statistics office, responsible for basic software/hardware maintenance and troubleshooting for faculty and staff  
+- Part-time **IT assistant** at the NCCU Department of Statistics office, responsible for basic software/hardware maintenance, simple website updates, and troubleshooting for faculty and staff
 - Active in **campus life**:  
   - Teaching member of the **NCCU Dancing Club**  
   - Design/marketing member of the **NCCU Mathematics & Information Technology Club (MITc)**  
@@ -93,6 +93,7 @@ This project is my main sandbox for experimenting with **research → model → 
 - **NCCU Department of Statistics – IT Student Assistant**  
   - Assist with basic software/hardware maintenance in the department office  
   - Help troubleshoot computers, printers, and classroom devices for faculty and staff  
+  - Support simple website maintenance for the department (content updates, basic layout adjustments) 
 
 - **NCCU Mathematics & Information Technology Club (MITc) – Design & Marketing**  
   - Responsible for visual design and promotional materials for club events  
