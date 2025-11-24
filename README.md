@@ -33,7 +33,7 @@ Interested in quantitative investing, machine learning for financial markets, an
 
 > A production-style project that combines ML-based stock prediction with an interactive “fortune drawing” (籤筒) frontend.
 
-- **Repository**: [new_project](https://github.com/112304008-hub/new_project)
+- Repository: [fortune-ticker](https://github.com/112304008-hub/fortune-ticker)
 - **Core ideas**:
   - Predicts next-day direction for selected equities using **technical and lagged features**
   - Wraps ML models in a **FastAPI** backend with clear, documented endpoints
@@ -97,4 +97,4 @@ This project is my main sandbox for experimenting with **research → model → 
 ## Contact
 
 - GitHub: [@112304008-hub](https://github.com/112304008-hub)
-- Email: 112304008@g.nccu.edu.tw/runyusheng@gmail.com   
+- Email: 112304008@g.nccu.edu.tw / runyusheng@gmail.com
