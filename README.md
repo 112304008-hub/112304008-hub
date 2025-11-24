@@ -71,7 +71,7 @@ This project is my main sandbox for experimenting with **research → model → 
 
 - Equity research with a focus on **AI infrastructure** (GPUs, server racks, networking, power & cooling, ODMs, foundries)
 - University finance & investment clubs (equity research, mutual funds, valuation, derivative products)
-- **NCCU Street Dance Club (熱舞社) – Teaching Member**  
+- **NCCU Dancing Club (熱舞社) – Teaching Member**  
   - Teaching basic to intermediate choreography  
   - Designing class content and practice schedules  
   - Coaching junior members for performances and competitions  
