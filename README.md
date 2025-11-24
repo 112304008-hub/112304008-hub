@@ -7,19 +7,23 @@ Interested in quantitative investing, machine learning for financial markets, an
 
 ## Profile
 
-- Background in **Finance** with solid training in **statistics and probability**
+- Background in **Statistics**, with strong foundations in probability, inference, and regression
 - Hands-on experience in **end-to-end ML projects**: data pipelines, model training, API serving, and Docker deployment
 - Strong interest in **AI-themed equity investing**, especially the **AI server hardware and supply-chain ecosystem**
 - Comfortable working across the stack: from **Python & data engineering** to **backend APIs** and **basic DevOps**
-- Active in **campus life**: teaching member of the **NCCU Street Dance Club (熱舞社)**, responsible for choreography classes and mentoring junior members
+- Part-time **IT assistant** at the NCCU Department of Statistics office, responsible for basic software/hardware maintenance and troubleshooting for faculty and staff
+- Active in **campus life**:  
+  - Teaching member of the **NCCU Dancing Club (熱舞社)**  
+  - Design/marketing member of the **NCCU Mathematics & Information Technology Club (MITc)**  
+  - Project member at the **NCCU Financial Investment and Industry Research Club**, working on equity research projects with my own deliverables
 
 ---
-
 ## Current Focus
 
 - Short-term stock return prediction models (classification, probability calibration, threshold design)
 - Turning research code into **reliable services** (FastAPI, Docker, monitoring & auto-updates)
 - Connecting **investment research** (AI server cycle, NVDA/TSMC/ODMs, cooling, etc.) with **systematic signals**
+- Building small tools that combine **data, code, and investment views** into something actually usable
 
 ---
 
@@ -53,7 +57,8 @@ This project is my main sandbox for experimenting with **research → model → 
 
 **Data & ML**  
 - pandas, NumPy, scikit-learn  
-- Time series / tabular ML, train–test splitting, cross-validation, evaluation metrics (accuracy, precision, recall, F1, ROC-AUC)
+- Time series / tabular ML, train–test splitting, cross-validation  
+- Evaluation metrics: accuracy, precision, recall, F1, ROC-AUC
 
 **Backend & APIs**  
 - FastAPI, Pydantic, Uvicorn  
@@ -71,13 +76,23 @@ This project is my main sandbox for experimenting with **research → model → 
 
 - Equity research with a focus on **AI infrastructure** (GPUs, server racks, networking, power & cooling, ODMs, foundries)
 - University finance & investment clubs (equity research, mutual funds, valuation, derivative products)
-- **NCCU Dancing Club (熱舞社) – Teaching Member**  
-  - Teaching basic to intermediate choreography  
-  - Designing class content and practice schedules  
-  - Coaching junior members for performances and competitions  
+- **NCCU Financial Investment and Industry Research Club – Project Member**  
+  - Conduct fundamental and industry research, with a focus on AI-related names  
+  - Build my own research deliverables (notes, simple models, and small tools) instead of only slides  
+- **NCCU Department of Statistics – IT Student Assistant**  
+  - Assist with basic software/hardware maintenance in the department office  
+  - Help troubleshoot computers, printers, and classroom devices for faculty and staff  
+- **NCCU Mathematics & Information Technology Club (MITc) – Design & Marketing**  
+  - Responsible for visual design and promotional materials for club events  
+  - Helped organize **[2025 NCCU PyDay: “Python × LLM Hands-on Workshop”](https://www.accupass.com/event/2505150542041736392010)**, a full-day offline event on LLM applications in Python
+- **NCCU Street Dance Club (熱舞社) – Teaching Member**  
+  - Teach basic to intermediate choreography  
+  - Design class content and practice schedules  
+  - Coach junior members for performances and competitions  
 - Building **small but complete systems** that move beyond notebooks to running services
 
 ---
+
 
 ## Contact
 
